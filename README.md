@@ -47,7 +47,8 @@ I'm a developer from Massachusetts obsessed with figuring out how things work un
 ---
 
 > *"Indian once, Indian forever"*
-> I actually need to add my Fortnite stats.
-> Give me a sec
-<img src="https://github-readme-fortnite.vercel.app/?username=Pangrusak" alt="My Fortnite Stats" />
->There...
+*I actually need to add my Fortnite stats.*
+*Give me a sec*
+<!--FN_START-->
+<!--FN_END-->
+> There...
