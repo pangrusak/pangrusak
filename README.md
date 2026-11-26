@@ -9,9 +9,9 @@ I'm a developer from Massachusetts obsessed with figuring out how things work un
 ### 🧑‍💻 What I'm About
 
 - 🤖 **Robotics:** Software developer for **FRC Team 4909 (The Bionics)**, working on swerve drivetrains, AprilTag vision alignment, and autonomous pathing (with a background in VEX V5 C++).
-- 🔬 **Low-Level & Runtimes:** Deep into compilers, bytecode/source translation, ARM64 reverse engineering, and WebAssembly.
-- 🖥️ **Self-Hosting:** Running Linux home-lab setups, Docker containers, and custom game servers on bare metal.
-- 🎮 **Off the Clock:** Grinding Minecraft (building overly complicated redstone farms) and Fortnite.
+- 🔬 **Low-Level & Runtimes:** Deep into compilers, bytecode/source translation, ARM64 reverse engineering, and WebAssembly. I'm             pretty sure half the things I do either break the Geneva Conventions or are illegal in 55 countries and 55 languages.
+- 🖥️ **Self-Hosting:** Running Linux home-lab setups, Docker containers, and custom game servers on bare metal. I once self-hosted a         Minecraft server on a Raspberry Pi. 
+- 🎮 **Off the Clock:** Grinding Minecraft (building overly complicated redstone farms) and Fortnite. I have yet to find the Pirate           Token
 
 ---
 
@@ -20,7 +20,7 @@ I'm a developer from Massachusetts obsessed with figuring out how things work un
 - **🟡 [Gold Client](https://github.com/pangrusak/Gold-Client)** — An automated Java-to-JavaScript source translator built to port Minecraft 1.12.2 Forge/Fabric mods (and their dependencies) to run natively in the browser.
 - **🪨 [EaglerRock](https://github.com/pangrusak/eaglerrock)** — A runtime and compatibility layer focused on translating ARM64 native ELF libraries to WebAssembly and emulating Android/Bionic behavior in-browser.
 - **🌐 BionicsCAM** — A custom web-based CAM pipeline for FRC Team 4909 that processes Onshape 3D CAD exports directly into machine G-code for milling robot parts. A fork of Team 6328's PenguinCAM.
-- **🤖 FRC Team 4909 Robot Code** — Competition robot software built with Java, WPILib, CTRE Phoenix 6, PathPlanner, and PhotonVision.
+- **🤖 FRC Team 4909 Robot Code** — Competition robot software built with Java, WPILib, CTRE Phoenix 6, PathPlanner, and PhotonVision.     2nd year, btw.
 
 ---
 
@@ -47,3 +47,7 @@ I'm a developer from Massachusetts obsessed with figuring out how things work un
 ---
 
 > *"Indian once, Indian forever"*
+> I actually need to add my Fortnite stats.
+> Give me a sec
+<img src="https://github-readme-fortnite.vercel.app/?username=Pangrusak" alt="My Fortnite Stats" />
+>There...
