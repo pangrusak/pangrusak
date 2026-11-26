@@ -50,5 +50,6 @@ I'm a developer from Massachusetts obsessed with figuring out how things work un
 *I actually need to add my Fortnite stats.*
 *Give me a sec*
 <!--FN_START-->
+Wins: **210** | Kills: **3873** | K/D: **3.586** | Matches: **1290**
 <!--FN_END-->
 > There...
