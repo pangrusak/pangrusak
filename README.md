@@ -45,7 +45,7 @@ I'm a developer from Massachusetts obsessed with figuring out how things work un
 
 ---
 
-> *"Indian once, Indian forever"*
+> *"Indian once, Indian forever"*>
 *I actually need to add my Fortnite stats.*
 *Give me a sec*
 <!--FN_START-->
