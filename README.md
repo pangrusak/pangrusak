@@ -44,8 +44,6 @@ I'm a developer from Massachusetts obsessed with figuring out how things work un
 </p>
 
 ---
-
-> *"Indian once, Indian forever"*>
 *I actually need to add my Fortnite stats.*
 *Give me a sec*
 <!--FN_START-->
@@ -61,3 +59,6 @@ I'm a developer from Massachusetts obsessed with figuring out how things work un
 _Last updated: Thu, 26 Nov 2026 18:50:16 GMT_
 <!--FN_END-->
 > There...
+
+> *"Indian once, Indian forever"*>
+
