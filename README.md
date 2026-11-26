@@ -50,6 +50,15 @@ I'm a developer from Massachusetts obsessed with figuring out how things work un
 *I actually need to add my Fortnite stats.*
 *Give me a sec*
 <!--FN_START-->
-Wins: **210** | Kills: **3873** | K/D: **3.586** | Matches: **1290**
+**Level 6** | **237 hours played** | **58,610 players outlived**
+
+| Mode | Matches | Wins | Win % | Kills | K/D | Top 10 | Hours |
+|---|---|---|---|---|---|---|---|
+| Overall | 1,290 | 210 | 16.3% | 3,873 | 3.59 | 123 | 237h |
+| Solo | 377 | 47 | 12.5% | 1,226 | 3.71 | 123 | 57h |
+| Duo | 271 | 49 | 18.1% | 881 | 3.97 | 144 | 49h |
+| Squad | 221 | 44 | 19.9% | 442 | 2.50 | 0 | 42h |
+
+_Last updated: Thu, 26 Nov 2026 18:50:16 GMT_
 <!--FN_END-->
 > There...
