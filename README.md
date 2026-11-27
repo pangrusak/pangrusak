@@ -1,6 +1,6 @@
 # Hey, I'm Pangrusak 👋
 
-**Student Developer · FRC Software (Team 4909) · GPA? More like GPT...**
+**Student Developer ·Software Lead (FRC Team 4909) · GPA? More like GPT...**
 
 I'm a developer from Massachusetts obsessed with figuring out how things work under the hood—and then building my own version. Whether that's autonomous robot code, a Java-to-JS source translator, or running ARM64 native binaries inside a browser, I like tackling problems that probably shouldn't work in the first place.
 
